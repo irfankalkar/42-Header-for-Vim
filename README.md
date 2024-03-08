@@ -1,5 +1,5 @@
 # 42-Header-for-Vim
-This is a 42 Heder for Vim Editor.
+Bu Vim editörü için bir 42 Header'dır. (This is a 42 Header for Vim Editor).
 
 ## .vimrc Dosyasını Eklemek
 
@@ -15,7 +15,9 @@ This is a 42 Heder for Vim Editor.
    cd 42-Header-for-Vim
 
 
-3. ".vimrc" dosyasını home dizinine kopyalayın:
+3. ".vimrc" dosyasını home dizinine kopyalayın
    (Copy the file ".vimrc" into the home folder):
    ```bash
    cp .vimrc ~/
+
+Ardından en ilkte clone olarak çektiğiniz repo klasörünü silebilirsiniz.
