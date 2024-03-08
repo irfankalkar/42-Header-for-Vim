@@ -1,7 +1,7 @@
 # 42-Header-for-Vim
 Bu Vim editörü için bir 42 Header'dır. (This is a 42 Header for Vim Editor).
 
-## .vimrc Dosyasını Eklemek
+## Nasıl Yüklenir (How to Install)
 
 1. Bu depoyu bilgisayarınıza klonlayın
    (Clone this repo on your computer):
