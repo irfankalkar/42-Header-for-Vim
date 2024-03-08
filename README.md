@@ -28,6 +28,8 @@ Ardından en ilkte clone olarak çektiğiniz repo klasörünü silebilirsiniz.
 
 ## Kullanım (Usage)
 
-Terminal'den "vim" komutu ile dosyanızı açtıktan sonra "Ctrl + H" tuşuna bastığınızda Header en üste eklenecektir. (After opening your file with the "vim" command from Terminal, when you press "Ctrl + H" the Header will be added to the top.)
+Terminal'den "vim" komutu ile dosyanızı açtıktan sonra "Ctrl + H" tuşuna bastığınızda Header en üste eklenecektir.
+(After opening your file with the "vim" command from Terminal, when you press "Ctrl + H" the Header will be added to the top.)
 
-"Insert" modunda çalışmaz. "Normal" modda çalıştırmanız gerekmektedir. (It does not work in "Insert" mode. You need to run it in "normal" mode.)
+"Insert" modunda çalışmaz. "Normal" modda çalıştırmanız gerekmektedir.
+(It does not work in "Insert" mode. You need to run it in "normal" mode.)
