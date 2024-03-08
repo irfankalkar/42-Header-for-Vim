@@ -21,3 +21,8 @@ Bu Vim editörü için bir 42 Header'dır. (This is a 42 Header for Vim Editor).
    cp .vimrc ~/
 
 Ardından en ilkte clone olarak çektiğiniz repo klasörünü silebilirsiniz.
+
+
+## Kullanım (Usage)
+
+Terminal'den "vim" komutu ile dosyanızı açtıktan sonra "Ctrl + H" tuşuna bastığınızda Header en üste eklenecektir. (After opening your file with the "vim" command from Terminal, when you press "Ctrl + H" the Header will be added to the top.)
